@@ -1,0 +1,15 @@
+{
+  "name": "learnnightwatch",
+  "version": "1.0.0",
+  "description": "To learn automation testing with nightwatch",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"url\" : \"https://github.com/vernko/Nightwatch.js-Practice\""
+  },
+  "author": "Vern",
+  "license": "ISC"
+}
