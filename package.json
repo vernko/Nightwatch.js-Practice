@@ -4,7 +4,7 @@
   "description": "To learn automation testing with nightwatch",
   "main": "nightwatch.js",
   "scripts": {
-    "test": "npm test"
+    "test": ""
   },
   "repository": {
     "type": "git",

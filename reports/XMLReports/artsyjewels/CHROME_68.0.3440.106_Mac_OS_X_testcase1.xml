@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="artsyjewels.testcase1"
+    errors="1" failures="0" hostname="" id="" package="artsyjewels" skipped="0"
+    tests="1" time="7.327" timestamp="">
+  
+    <testcase name="Go to Artsy Jewels homepage, click on headers of the homepage." classname="artsyjewels.testcase1" time="7.327" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
